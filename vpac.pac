@@ -2,6 +2,7 @@
 // Modify by aviot
 
 var domains = {
+  "appledaily.com.tw": 1,
   "ggpht.com": 1,
   "googlesyndication.com": 1,
   "photobucket.com": 1,
