@@ -2,6 +2,7 @@
 // Modify by aviot
 
 var domains = {
+  "bbc.co.uk": 1,
   "google-analytics.com": 1,
   "appledaily.com.tw": 1,
   "ggpht.com": 1,
