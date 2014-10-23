@@ -2,6 +2,7 @@
 // Modify by aviot
 
 var domains = {
+  "steampowered.com": 1,
   "mycard520.com.tw": 1,
   "bbc.co.uk": 1,
   "google-analytics.com": 1,
