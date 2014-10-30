@@ -5825,6 +5825,7 @@
     };
 
     var dangerDomains = {
+      "readthedocs.org": 1,
       "gimpshop.com": 1,
       "directcreative.com": 1,
       "speedpluss.org": 1,
