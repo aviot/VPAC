@@ -5825,13 +5825,7 @@
     };
 
     var dangerDomains = {
-      "9gal.com": 1,
-      "mycard520.com.tw": 1,
-      "google-analytics.com": 1,
-      "appledaily.com.tw": 1,
-      "ggpht.com": 1,
-      "googlesyndication.com": 1,
-      "photobucket.com": 1,
+      "readthedocs.org": 1,
       "gimpshop.com": 1,
       "directcreative.com": 1,
       "speedpluss.org": 1,
