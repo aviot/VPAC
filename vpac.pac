@@ -2,6 +2,7 @@
 // Modify by aviot
 
 var domains = {
+  "v2ex.com": 1,
   "9gal.com": 1,
   "mycard520.com.tw": 1,
   "bbc.co.uk": 1,
